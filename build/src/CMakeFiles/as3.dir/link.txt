@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -m64 -O3 -fopenmp    CMakeFiles/as3.dir/example_03.cpp.o CMakeFiles/as3.dir/data_structures.cpp.o  -o ../as3 -rdynamic ../glew/libglew.a ../glew/libglew.a ../glfw-3.2.1/src/libglfw3.a -lGLU -lGL -lSM -lICE -lX11 -lXext -lrt -lm -ldl -lpthread -lXrandr -lXinerama -lXxf86vm -lXcursor -lX11 
